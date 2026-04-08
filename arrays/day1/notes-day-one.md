@@ -37,7 +37,7 @@ If the computer must to search for the element that wants to be updated.
 If is in the end of the array... *BUT* **O(n)** if the array gets full and need create a larger array and copy everything.
 **O(n)**
 In the another cases, because the elements after the insert element must be shifted.
-## Delete Element
+### Delete Element
 **O(1)**
 If is in the end of the array
 **O(n)**
